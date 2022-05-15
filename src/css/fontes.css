@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'ssf4';
+  /*Woff funciona nos nvegadores Google Chrome, Firefox, Microsoft Edge, Opera e Safari são compatíveis com o formato WOFF, mas pode ser necessário atualizar seu navegador para a versão mais recente. */
+  src: url('../fontes/SSF4_ABUKET.woff'); 
+}
+
+@font-face {
+  font-family: 'command';
+  /*OTF é suportado pela maioria dos navegadores mais modernos, menos o internet explorer */
+  src: url('../fontes/PILOT_COMMAND.otf');
+}
